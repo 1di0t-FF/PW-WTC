@@ -1,0 +1,178 @@
+{
+  "E1-FCS": {
+    "mode": "FCS",
+    "satellites": [
+      "G10",
+      "G12",
+      "G18",
+      "G23",
+      "G28",
+      "G32"
+    ],
+    "display": [
+      "G10",
+      "G12",
+      "G18"
+    ]
+  },
+  "E2-FCS": {
+    "mode": "FCS",
+    "satellites": [
+      "G04",
+      "G08",
+      "G16",
+      "G26",
+      "G27",
+      "G31"
+    ],
+    "display": [
+      "G04",
+      "G08",
+      "G16"
+    ]
+  },
+  "E3-FCS": {
+    "mode": "FCS",
+    "satellites": [
+      "G18",
+      "G23",
+      "G24",
+      "G29"
+    ],
+    "display": [
+      "G18",
+      "G23",
+      "G24"
+    ]
+  },
+  "E4-FCS": {
+    "mode": "FCS",
+    "satellites": [
+      "G26",
+      "G28",
+      "G31",
+      "G32"
+    ],
+    "display": [
+      "G26",
+      "G28",
+      "G31"
+    ]
+  },
+  "E1-PCS": {
+    "mode": "PCS",
+    "satellites": [
+      "G05",
+      "G11",
+      "G15",
+      "G18",
+      "G24"
+    ],
+    "target": "G11",
+    "display": [
+      "G05",
+      "G15",
+      "G11"
+    ]
+  },
+  "E2-PCS": {
+    "mode": "PCS",
+    "satellites": [
+      "G01",
+      "G08",
+      "G09",
+      "G27"
+    ],
+    "target": "G09",
+    "display": [
+      "G01",
+      "G08",
+      "G09"
+    ]
+  },
+  "E3-PCS": {
+    "mode": "PCS",
+    "satellites": [
+      "G15",
+      "G23",
+      "G24",
+      "G29"
+    ],
+    "target": "G29",
+    "display": [
+      "G15",
+      "G23",
+      "G29"
+    ]
+  },
+  "E4-PCS": {
+    "mode": "PCS",
+    "satellites": [
+      "G10",
+      "G23",
+      "G25",
+      "G32"
+    ],
+    "target": "G32",
+    "display": [
+      "G10",
+      "G23",
+      "G32"
+    ]
+  },
+  "E1-JAM-SP": {
+    "mode": "JAM-SP",
+    "satellites": [
+      "G05",
+      "G15",
+      "G20",
+      "G24",
+      "G29"
+    ],
+    "display": [
+      "G05",
+      "G24",
+      "G29"
+    ]
+  },
+  "E2-JAM-SP": {
+    "mode": "JAM-SP",
+    "satellites": [
+      "G10",
+      "G25",
+      "G26",
+      "G32"
+    ],
+    "display": [
+      "G10",
+      "G25",
+      "G32"
+    ]
+  },
+  "E3-JAM-SP": {
+    "mode": "JAM-SP",
+    "satellites": [
+      "G15",
+      "G18",
+      "G24"
+    ],
+    "display": [
+      "G15",
+      "G18",
+      "G24"
+    ]
+  },
+  "E4-JAM-SP": {
+    "mode": "JAM-SP",
+    "satellites": [
+      "G10",
+      "G25",
+      "G32"
+    ],
+    "display": [
+      "G10",
+      "G25",
+      "G32"
+    ]
+  }
+}
