@@ -1,3 +1,4 @@
+The paper is under review. Currently, input is only accessible to the editors and reviewers. The password is the article number. (26-TIE-XXXX)
 # GNSS 欺骗检测对比实验
 四种检测器对 12 个欺骗场景（4 环境 × FCS/PCS/JAM-SP）的独立复现包
 
